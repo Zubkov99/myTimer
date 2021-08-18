@@ -37,5 +37,3 @@ const finish = '2022-10-19T10:00:00';
   }
 
   let itMustWork = new Timer(finish);
-
-  console.log('test 3s');
